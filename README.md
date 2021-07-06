@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DKNNYEL
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Analytics Date
+- 💞️ I’m looking to collaborate on Analysis of Data
 - 📫 How to reach me ...
 
 <!---
